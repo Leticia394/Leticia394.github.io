@@ -1,0 +1,22 @@
+header
+{background-color:Gray;
+  font-family: "copperplate", fantasy;
+  font-size: 2.5em;
+}img{
+  width: 35%
+    
+}
+width: 2.5%
+aside {
+  width: 2%;
+  padding-left: 2px;
+  margin-left: 2px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: center;
+}
+footer
+{background-color: #5ce1f4;
+  font-family: "Times New Roman", fantasy;
+  font-size: 1em;
+}
